@@ -11,7 +11,10 @@ var config = {
         "掉光了头发",
         "看瞎了眼睛",
         "终于码好了代码",
-        "生日快乐",
+        "我想说的是",
+        "生日快乐哟",
+        "生日快乐哟",
+        "生日快乐哟",
       
     ],
     /**
@@ -33,9 +36,9 @@ var config = {
         play: "再点一下",
         bannar_coming: "再点一下",
         balloons_flying: "再点一下",
-        cake_fadein: "再点一下？",
-        light_candle: "再点一下？",
-        wish_message: "生日快乐",
-        story: " MESSAGE FOR YOU",
+        cake_fadein: "再点一下",
+        light_candle: "再点一下",
+        wish_message: "再点一下 猜猜我想说啥",
+        story: "MESSAGE FOR YOU",
     }
 };
